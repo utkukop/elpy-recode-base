@@ -200,6 +200,7 @@ beachDivTwo.addEventListener("click", () => {
         playButton.style.display = "block";
         pauseButton.style.display = "none";
     }
+    
 })
 
 birdsDivTwo.addEventListener("click", () => {
